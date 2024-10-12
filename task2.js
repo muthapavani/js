@@ -9,10 +9,11 @@ else if(num>0){
         console.log("positive,even")
     }
     else{
-        console.log("negative,odd")
+       console.log("negative,odd")
     }
 }
-else{
+}
+else if(num<0){
     console.log("negative")
    }
 
