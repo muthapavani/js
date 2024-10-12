@@ -12,7 +12,7 @@ else if(num>0){
        console.log("negative,odd")
     }
 }
-}
+
 else if(num<0){
     console.log("negative")
    }
